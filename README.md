@@ -127,6 +127,13 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ---
 
+## 🧪 Demo Video
+
+📺 Demo Video (3 minutes):
+(YouTube / Vimeo link to be added before final submission)
+
+---
+
 ## 🧩 Challenge Compliance
 
 ✅ Uses ElevenLabs Agents
