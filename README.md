@@ -10,7 +10,7 @@ This project was built for the ElevenLabs Challenge.
 
 ## 🚀 Live Project
 
-- **Frontend (Voice Interface):** [Deployed on Vercel]
+- **Frontend (Voice Interface):** [Deployed on Netlify]
 - **Backend API (Google Cloud Run):** `https://voiceresolve-api-702123324614.us-central1.run.app`
 
 ---
@@ -34,7 +34,7 @@ This project was built for the ElevenLabs Challenge.
 -   **Framework:** Next.js 14 (App Router)
 -   **Styling:** Tailwind CSS
 -   **Integration:** ElevenLabs Conversational AI Widget
--   **Deployment:** Vercel
+-   **Deployment:** Netlify
 
 ### **Backend**
 -   **Language:** Python
@@ -139,7 +139,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ✅ Uses ElevenLabs Agents
 ✅ Uses Google Cloud Vertex AI (Gemini)
 ✅ Fully voice-driven interaction
-✅ Hosted on Google Cloud (Backend) & Vercel (Frontend)
+✅ Hosted on Google Cloud (Backend) & Netlify (Frontend)
 ✅ Public, open-source repository
 ✅ MIT Licensed
 
