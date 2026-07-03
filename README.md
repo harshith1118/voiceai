@@ -10,7 +10,7 @@ This project was built for the ElevenLabs Challenge.
 
 ## 🚀 Live Project
 
-- **Frontend (Voice Interface):** [Deployed on Netlify]
+- **Frontend (Voice Interface):** https://voiceresolve.netlify.app/
 - **Backend API (Google Cloud Run):** `https://voiceresolve-api-702123324614.us-central1.run.app`
 
 ---
@@ -126,11 +126,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ```
 
 ---
-
-## 🧪 Demo Video
-
-📺 Demo Video (3 minutes):
-(YouTube / Vimeo link to be added before final submission)
 
 ---
 
